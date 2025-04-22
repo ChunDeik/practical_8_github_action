@@ -11,6 +11,6 @@ public class Main {
     }
 
     public static String getGreeting() {
-        return "Hello, World, World, World!!!";
+        return "Hello, World, World, World!";
     }
 }
